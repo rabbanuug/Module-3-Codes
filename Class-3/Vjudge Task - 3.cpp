@@ -94,7 +94,7 @@ int main()
     for ( int i = 1; i <= lim; i++ ) {
         cntPrime[i] += cntPrime[i-1];
     }
- 
+ // nothing
     int t;
     cin >> t;
  
